@@ -14,7 +14,8 @@ This software provides the following functionalities:
 
 ### Role-based access 
 There are three levels of authorization to this management system: 
-- Super Manager: super manager can add/drop normal managers to the system + get access to all of the users, categories, goods, and warehouses present on the system.There is only 1 super manager allowed per system. 
+- Super Manager: super manager can add/drop normal managers to the system + get access to all of the users, categories, goods, and warehouses present on the system.There is only 1 super manager allowed per system.
+![image](https://github.com/xchkcode0803/Ware-Flow/assets/109048196/aaa90b43-58b6-4671-90d2-60f4719741c5)
 - Normal manager: normal managers has access to all of the users, categories, goods, and warehouses present on the system. Normal managers can also add/drop normal users to the system.
 - Normal user: normal users can view/edit all of the items on the system and they can also get an overview of the transaction records happening within the system. 
 
