@@ -2,7 +2,7 @@
 
 ## Overview
 Ware Flow is a Full-Stack web app with role-based access for managing and tracking warehouse operations. This full stack web app is written in Vue.js for the front end, while using Java Springboot to handle CRUD operations with a MySQL database hosted on AWS RDS. 
-
+![image](https://github.com/xchkcode0803/Ware-Flow/assets/109048196/cffffdea-9ccd-4104-8e29-861938ff81d8)
 ## Functionalities 
 This software provides the following functionalities: 
 - Role-based access to different content. Different roles with different authorizations can view/modify different content in the web app.
@@ -22,6 +22,7 @@ There are three levels of authorization to this management system:
 
 
 - Normal user: normal users can view/edit all of the items on the system and they can also get an overview of the transaction records happening within the system. 
+![image](https://github.com/xchkcode0803/Ware-Flow/assets/109048196/feec9e68-2df6-41cf-b3d7-d6f334477684)
 
 
 
