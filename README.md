@@ -18,7 +18,8 @@ There are three levels of authorization to this management system:
 ![image](https://github.com/xchkcode0803/Ware-Flow/assets/109048196/cffffdea-9ccd-4104-8e29-861938ff81d8)
 
 - Normal manager: normal managers has access to all of the users, categories, goods, and warehouses present on the system. Normal managers can also add/drop normal users to the system.
-![image](https://github.com/xchkcode0803/Ware-Flow/assets/109048196/40a16c8f-5b84-4243-b919-d9e4c2aa0467)
+![image](https://github.com/xchkcode0803/Ware-Flow/assets/109048196/4fe8b2fb-16c7-46eb-905a-2ff3969b4d27)
+
 
 - Normal user: normal users can view/edit all of the items on the system and they can also get an overview of the transaction records happening within the system. 
 
